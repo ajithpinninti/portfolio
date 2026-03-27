@@ -375,16 +375,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <div className="timeline-item fade-in fade-in-delay-4">
-              <div className="timeline-marker active"></div>
-              <div className="timeline-content">
-                <span className="timeline-period">Next</span>
-                <h3>AI Silicon &amp; Global Scale</h3>
-                <p>
-                  Custom ASIC/NPU hardware for democratizing AI compute. Scaling DistilBook to millions worldwide.
-                </p>
-              </div>
-            </div>
+
           </div>
         </div>
       </section>
