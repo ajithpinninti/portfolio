@@ -123,7 +123,7 @@ export default function Home() {
           <div className="hero-image-wrapper">
             <div className="hero-image-bg"></div>
             <Image
-              src="/me.jpeg"
+              src="/me_1_1.jpeg"
               alt="Ajith Pinninti - Tech Founder"
               width={420}
               height={560}
@@ -395,7 +395,7 @@ export default function Home() {
           <div className="about-image-wrapper fade-in">
             <div className="about-image-circle"></div>
             <Image
-              src="/me.jpeg"
+              src="/me_1_1.jpeg"
               alt="Ajith Pinninti"
               width={400}
               height={400}
